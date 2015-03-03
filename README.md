@@ -11,7 +11,8 @@ Base6 is an app designed to help Christains, especially early Christians, learn 
 
 ## Stack
 
-* It is based on the [Ionic Framework](http://ionicframework.com)
+* It is based on the [Ionic Framework](http://ionicframework.com).
+* Includes [Velocity.js](https://github.com/julianshapiro/velocity) for the animation.
 
 ## Copyright and license
 
